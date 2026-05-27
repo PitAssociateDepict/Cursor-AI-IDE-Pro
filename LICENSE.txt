@@ -32,4 +32,4 @@ cursor, cursor-ai, cursor-pro, ai-ide, cursor-2026, ai-code-editor, cursor-crack
 
 Copyright (c) 2026 Contributors. MIT License.
 
-Provided AS IS without warranty. Use at your own risk.  
+Provided AS IS without warranty. Use at your own risk.   
